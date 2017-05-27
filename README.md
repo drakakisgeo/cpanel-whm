@@ -1,4 +1,4 @@
-## Laravel cPanel WHM Package
+## Laravel cPanel WHM Package.
 
 ### Contents
 - [Installation Guide](#installation-guide)
